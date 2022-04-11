@@ -15,11 +15,8 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 # Development
 
-Truffle@5.4.33
-
-## Zokrates
-
-v0.7.11
+- Truffle@5.4.33
+- Zokrates@0.7.11
 
 ```
 zokrates compile -i square.code
@@ -40,14 +37,17 @@ truffle test test/TestERC721Mintable.js
 
 ## contract address
 **SolnSquareVerifier**: [0x3074Fe14032Bb1C2F2371591711cfB9d1697b9a6](https://rinkeby.etherscan.io/address/0x3074fe14032bb1c2f2371591711cfb9d1697b9a6)
+
 **Verifier**: [0xc7f64140d203A8e9D518A4Ac07dEdDEf29294Cf1](https://rinkeby.etherscan.io/address/0xc7f64140d203A8e9D518A4Ac07dEdDEf29294Cf1)
 
 ## mint
 via https://www.myetherwallet.com/wallet/interact
+
 [ref: Mint a token using MyEtherWallet | Interacting with smart contracts | Udacity](https://www.youtube.com/watch?v=8MChn-NJJB0)
 
 ## token
 [CryptoPropertyTitle](https://rinkeby.etherscan.io/token/0x3074fe14032bb1c2f2371591711cfb9d1697b9a6)
+
 [OpenSea Storefront](https://testnets.opensea.io/collection/cryptopropertytitle)
 
 ## abi
